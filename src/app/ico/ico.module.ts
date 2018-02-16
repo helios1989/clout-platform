@@ -46,9 +46,13 @@ import {
   // search
   SearchComponent,
   FooDirective,
+<<<<<<< HEAD
   ServerErrorMsgComponent,
   // pricing
   PricingPlanComponent
+=======
+  ServerErrorMsgComponent
+>>>>>>> 711b0e31a987a7e46f192a9a916b05b7dac8b85e
 } from './components';
 @NgModule({
   imports: [
